@@ -5,4 +5,8 @@ For this quiz, I used QGIS to generate QTiles, which are images of an area at a 
 Image Name | Zoom Level
 -----------|-------------
 11.png     | 5
+47.png     | 7
+95.png     | 8
+382.png    | 10
+764.png    | 11
 6118.png   | 14
